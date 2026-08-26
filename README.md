@@ -43,6 +43,17 @@ Free Edition using a medallion architecture.
 🔗 [View Repository](https://github.com/Harry4ds/instacart-databricks-lakehouse)
 📝 [Read the Walkthrough on Medium](https://medium.com/@harshitpatel4ds/building-an-end-to-end-lakehouse-on-databricks-instacart-analytics-from-pipeline-to-insight-a88483aa3895)
 
+### Instacart Customer Analytics & Recommendation System
+Python-based customer analytics and recommendation engine 
+combining segmentation, CLV estimation, and hybrid recommenders.
+
+- RFM segmentation, CLV proxy, and K-Means clustering (behavioral + department)
+- ALS collaborative filtering + Apriori association-rule mining
+- Precision@K / Recall@K offline evaluation
+- Interactive Streamlit dashboard for customer-level exploration
+
+🔗 [View Repository](https://github.com/Harry4ds/instacart-customer-analytics-recommender)
+
 ---
 
 ## 📝 Articles

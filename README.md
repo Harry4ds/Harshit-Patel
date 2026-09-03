@@ -54,6 +54,10 @@ combining segmentation, CLV estimation, and hybrid recommenders.
 
 🔗 [View Repository](https://github.com/Harry4ds/instacart-customer-analytics-recommender)
 
+### 🏥 [Clinic Plus – Azure Healthcare Data Architecture](https://github.com/Harry4ds/clinic-plus-azure-data-architecture)
+Azure Lakehouse architecture for a healthcare data platform — batch & streaming ingestion, Bronze-Silver-Gold pipeline design, Power BI reporting, and ML-ready datasets. SAIT Data Engineering Capstone.
+`Azure Data Factory` `Event Hubs` `Synapse Analytics` `Cosmos DB` `Power BI`
+
 ---
 
 ## 📝 Articles
